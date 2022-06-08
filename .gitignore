@@ -24,4 +24,3 @@ yarn-error.log*
 .prettierignore
 
 /.vscode
-yarn.lock
